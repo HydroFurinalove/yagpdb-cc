@@ -1,4 +1,4 @@
----
+Furina---
 slug: /
 title: Introduction
 ---
